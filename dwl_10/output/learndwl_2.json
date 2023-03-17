@@ -1,0 +1,27 @@
+{
+  "customergroup": {
+    "region": "NorthEast",
+    "customers": [
+      {
+        "customer": {
+          "name": "ABC Variety Shop"
+        }
+      }
+    ]
+  },
+  "customergroup": {
+    "region": "SouthWest",
+    "customers": [
+      {
+        "customer": {
+          "name": "XYZ Baby Products"
+        }
+      },
+      {
+        "customer": {
+          "name": "123 Bakers"
+        }
+      }
+    ]
+  }
+}
