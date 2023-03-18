@@ -2,7 +2,7 @@
 	<img
 	width="150"
 	src="/images/max-terminal.gif"></br>
-	Getting started with MuleSoft: How to output a “Hello World” from Anypoint Studio<br>     
+	Dataweave<br>     
 </h1>
 <h3 align="center">
 practice-dwl!<br><br>
