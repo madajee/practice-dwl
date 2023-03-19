@@ -6,12 +6,12 @@
         "orders": [
 		{
 			"orderId": "1000",
-			"orderTotal": "900",
+			"orderTotal": "9900.569",
 			"orderDate": "01-05-2021"
 		},
 		{
 			"orderId": "1001",
-			"orderTotal": "500",
+			"orderTotal": "500.6534",
 			"orderDate": "02-11-2022"
 		}
 		
