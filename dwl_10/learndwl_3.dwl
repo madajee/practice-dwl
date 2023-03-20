@@ -9,6 +9,7 @@ customers: payload.customers map (customer, index) -> {
           region: customer.region,
           orders: customer.orders map (order, index) -> {
               orderId: order.orderId,
+              orderType: order.OrderType,
               orderTotal: order.orderTotal as Number as currency,
               orderDate: order.orderDate as Date { format: "MM-dd-uuuu" } as String { format: "dd-MMM-uuuu" }
           }

@@ -6,12 +6,14 @@
       "ORDERS": [
         {
           "orderId": "1000",
-          "orderTotal": "900",
+          "orderType": "web",
+          "orderTotal": "9900.569",
           "orderDate": "01-05-2021"
         },
         {
           "orderId": "1001",
-          "orderTotal": "500",
+          "orderType": "web",
+          "orderTotal": "500.6534",
           "orderDate": "02-11-2022"
         }
       ]
@@ -24,11 +26,13 @@
       "ORDERS": [
         {
           "orderId": "1000",
+          "orderType": "store",
           "orderTotal": "900",
           "orderDate": "01-05-2021"
         },
         {
           "orderId": "1001",
+          "orderType": "store",
           "orderTotal": "500",
           "orderDate": "02-11-2022"
         }

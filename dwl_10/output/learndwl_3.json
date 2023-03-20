@@ -1,0 +1,58 @@
+{
+  "customers": [
+    {
+      "name": "ABC Variety Shop",
+      "region": "NorthEast",
+      "orders": [
+        {
+          "orderId": "1000",
+          "orderType": null,
+          "orderTotal": "$9900.57",
+          "orderDate": "05-Jan-2021"
+        },
+        {
+          "orderId": "1001",
+          "orderType": null,
+          "orderTotal": "$500.65",
+          "orderDate": "11-Feb-2022"
+        }
+      ]
+    },
+    {
+      "name": "XYZ Baby Products",
+      "region": "SouthWest",
+      "orders": [
+        {
+          "orderId": "1000",
+          "orderType": null,
+          "orderTotal": "$900.00",
+          "orderDate": "05-Jan-2021"
+        },
+        {
+          "orderId": "1001",
+          "orderType": null,
+          "orderTotal": "$500.00",
+          "orderDate": "11-Feb-2022"
+        }
+      ]
+    },
+    {
+      "name": "123 Bakers",
+      "region": "SouthWest",
+      "orders": [
+        {
+          "orderId": "1000",
+          "orderType": null,
+          "orderTotal": "$900.00",
+          "orderDate": "05-Jan-2021"
+        },
+        {
+          "orderId": "1001",
+          "orderType": null,
+          "orderTotal": "$500.00",
+          "orderDate": "11-Feb-2022"
+        }
+      ]
+    }
+  ]
+}

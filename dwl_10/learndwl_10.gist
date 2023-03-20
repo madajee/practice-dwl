@@ -1,3 +1,4 @@
 1. Transform customers object into array of customers using map(), mapobject() and use the upper() so that keys of customer attribute are in uppercase.
 2. Transform customers object into customergroup for a region using groupBy() on region. Each customergroup object should have a customers object which should list customers in that region identified by customer name.
 3. Tranform customers so that orders for each customer formats orderDate (MM-dd-uuuu to dd-MMM-uuuu) and orderTotal (as {format: "$sign###.00"})
+4. Filter customer orders that have order type, and then rename orderDate as deliveryDate for web order type.
