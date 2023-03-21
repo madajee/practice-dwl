@@ -1,0 +1,23 @@
+[
+    {
+      "customer": {
+        "NAME": "ABC Variety Shop",
+        "REGION": "NorthEast",
+        "ORDERTOTAL": 10401.2224
+      }
+    },
+    {
+      "customer": {
+        "NAME": "XYZ Baby Products",
+        "REGION": "SouthWest",
+        "ORDERTOTAL": 1400
+      }
+    },
+    {
+      "customer": {
+        "NAME": "123 Bakers",
+        "REGION": "SouthWest",
+        "ORDERTOTAL": 1400
+      }
+    }
+  ]
