@@ -1,0 +1,57 @@
+[
+    {
+      "customer": {
+        "customerdesc": "ABC Variety Shop located in  NorthEast",
+        "orders": [
+          {
+            "orderId": "1000",
+            "orderType": "web",
+            "orderTotal": "9900.569",
+            "orderDate": "01-05-2021"
+          },
+          {
+            "orderId": "1001",
+            "orderType": "web",
+            "orderTotal": "500.6534",
+            "orderDate": "02-11-2022"
+          }
+        ]
+      }
+    },
+    {
+      "customer": {
+        "customerdesc": "XYZ Baby Products located in  SouthWest",
+        "orders": [
+          {
+            "orderId": "1000",
+            "orderType": "store",
+            "orderTotal": "900",
+            "orderDate": "01-05-2021"
+          },
+          {
+            "orderId": "1001",
+            "orderType": "store",
+            "orderTotal": "500",
+            "orderDate": "02-11-2022"
+          }
+        ]
+      }
+    },
+    {
+      "customer": {
+        "customerdesc": "123 Bakers located in  SouthWest",
+        "orders": [
+          {
+            "orderId": "1000",
+            "orderTotal": "900",
+            "orderDate": "01-05-2021"
+          },
+          {
+            "orderId": "1001",
+            "orderTotal": "500",
+            "orderDate": "02-11-2022"
+          }
+        ]
+      }
+    }
+  ]
