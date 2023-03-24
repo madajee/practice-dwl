@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<customers>
+  <customer>
+    <NAME>ABC Variety Shop</NAME>
+    <REGION>NorthEast</REGION>
+    <ORDERS>
+      <orderId>1000</orderId>
+      <orderType>web</orderType>
+      <orderTotal>9900.569</orderTotal>
+      <orderDate>01-05-2021</orderDate>
+    </ORDERS>
+    <ORDERS>
+      <orderId>1001</orderId>
+      <orderType>web</orderType>
+      <orderTotal>500.6534</orderTotal>
+      <orderDate>02-11-2022</orderDate>
+    </ORDERS>
+  </customer>
+  <customer>
+    <NAME>XYZ Baby Products</NAME>
+    <REGION>SouthWest</REGION>
+    <ORDERS>
+      <orderId>1000</orderId>
+      <orderType>store</orderType>
+      <orderTotal>900</orderTotal>
+      <orderDate>01-05-2021</orderDate>
+    </ORDERS>
+    <ORDERS>
+      <orderId>1001</orderId>
+      <orderType>store</orderType>
+      <orderTotal>500</orderTotal>
+      <orderDate>02-11-2022</orderDate>
+    </ORDERS>
+  </customer>
+  <customer>
+    <NAME>123 Bakers</NAME>
+    <REGION>SouthWest</REGION>
+    <ORDERS>
+      <orderId>1000</orderId>
+      <orderTotal>900</orderTotal>
+      <orderDate>01-05-2021</orderDate>
+    </ORDERS>
+    <ORDERS>
+      <orderId>1001</orderId>
+      <orderTotal>500</orderTotal>
+      <orderDate>02-11-2022</orderDate>
+    </ORDERS>
+  </customer>
+</customers>

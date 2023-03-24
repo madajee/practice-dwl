@@ -5,3 +5,4 @@
 5. Transform customers object that is an array of field/value pair of customer attributes into customer object with fields as name, region and ordertotal in uppercase and ordertotal is sum of orderTotal of all orders for a customer. Use the reduce() to accumulate the ordertotal.
 6. Transform customers object into array of customer object and join the name and region to create a customerdesc. Use pluck() and joinBy().
 7. Transform customers object into a customers xml.
+8. Extract the orders for all the customers from customer object into an array of order object. Add customer name in the each order object.

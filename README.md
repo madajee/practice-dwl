@@ -13,7 +13,7 @@ As a muley, I believe that we should allocate few hours a week to hone the dwl s
 
 ## dwl_10
 
-Check the learndwl_10.gist for description of different transformation tasks. Usage: map(), mapObject(), upper(), groupBy(), reduce(), filter(), isEmpty(), format as Number, format as Date, pluck(), joinBy()  
+Check the learndwl_10.gist for description of different transformation tasks. Usage: map(), mapObject(), upper(), groupBy(), reduce(), filter(), isEmpty(), format as Number, format as Date, pluck(), joinBy(), flatten() 
 
 ## Contributing
 

@@ -1,0 +1,38 @@
+[
+    {
+      "orderId": "1000",
+      "orderType": "web",
+      "orderTotal": "$9900.57",
+      "customer": "ABC Variety Shop"
+    },
+    {
+      "orderId": "1001",
+      "orderType": "web",
+      "orderTotal": "$500.65",
+      "customer": "ABC Variety Shop"
+    },
+    {
+      "orderId": "1000",
+      "orderType": "store",
+      "orderTotal": "$900.00",
+      "customer": "XYZ Baby Products"
+    },
+    {
+      "orderId": "1001",
+      "orderType": "store",
+      "orderTotal": "$500.00",
+      "customer": "XYZ Baby Products"
+    },
+    {
+      "orderId": "1000",
+      "orderType": null,
+      "orderTotal": "$900.00",
+      "customer": "123 Bakers"
+    },
+    {
+      "orderId": "1001",
+      "orderType": null,
+      "orderTotal": "$500.00",
+      "customer": "123 Bakers"
+    }
+  ]
