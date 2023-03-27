@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<orders>
+  <order>
+    <orderId>1000</orderId>
+    <orderType>web</orderType>
+    <orderTotal>$9900.57</orderTotal>
+    <name>ABC Variety Shop</name>
+  </order>
+  <order>
+    <orderId>1001</orderId>
+    <orderType>web</orderType>
+    <orderTotal>$500.65</orderTotal>
+    <name>ABC Variety Shop</name>
+  </order>
+  <order>
+    <orderId>1000</orderId>
+    <orderType>store</orderType>
+    <orderTotal>$900.00</orderTotal>
+    <name>XYZ Baby Products</name>
+  </order>
+  <order>
+    <orderId>1001</orderId>
+    <orderType>store</orderType>
+    <orderTotal>$500.00</orderTotal>
+    <name>XYZ Baby Products</name>
+  </order>
+  <order>
+    <orderId>1000</orderId>
+    <orderType/>
+    <orderTotal>$900.00</orderTotal>
+    <name>123 Bakers</name>
+  </order>
+  <order>
+    <orderId>1001</orderId>
+    <orderType/>
+    <orderTotal>$500.00</orderTotal>
+    <name>123 Bakers</name>
+  </order>
+</orders>

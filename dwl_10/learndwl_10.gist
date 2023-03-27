@@ -6,3 +6,4 @@
 6. Transform customers object into array of customer object and join the name and region to create a customerdesc. Use pluck() and joinBy().
 7. Transform customers object into a customers xml.
 8. Extract the orders for all the customers from customer object into an array of order object. Add customer name in the each order object.
+9. Extract the orders for all the customers from customer object into list of order element with root element as orders in an XML. Just like in learndwl_8.dwl, Add customer name in the each order object.
